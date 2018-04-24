@@ -1,0 +1,5 @@
+if boolean true begin loop
+_identifier identifier IdEnTiFiEr6789
+67 -230identifier
+"Hi, \"Tom\", \nHow are \333things\222 today?" "illegal \g" "unterminated
+*+/ >=> = := ([.]) %!`

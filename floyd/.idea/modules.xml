@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/floyd.iml" filepath="$PROJECT_DIR$/.idea/modules/floyd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/floyd_main.iml" filepath="$PROJECT_DIR$/.idea/modules/floyd_main.iml" group="floyd" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/floyd_test.iml" filepath="$PROJECT_DIR$/.idea/modules/floyd_test.iml" group="floyd" />
+    </modules>
+  </component>
+</project>
